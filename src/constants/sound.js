@@ -1,0 +1,1 @@
+export const SOUND_VOLUME = 0.2;
